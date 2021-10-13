@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaniKulkarni
-- 👀 I’m interested in cloud based solutions, coding, software design, innovative idea 
+- 👀 I’m interested in cloud based solutions (Azure, AWS, Firebase), coding, software design, innovative ideas 
 - 🌱 I’m currently learning AWS solutions achitecture 
 - 💞️ I’m looking to collaborate on Cloud based solutions
 - 📫 vanikulkarnister@gmail.com
